@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<div class="header">
+     <h1> Shastri Riya</h1>
+     <p>Email id:riyashastri0107@gmail.com</p>
+</div>
+
+<div class="Section">
+     <div class="Section.title">
+     <h2>Summary</h2>
+ </div>
+<div class="section.content">
+    <p>software developer</p>
+</body>
+</html>
